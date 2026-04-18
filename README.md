@@ -1,6 +1,6 @@
 # Hi, I'm Kidslasher7RN
 
-💻 Front-End Developer | ⚡ Lifelong Learner  
+💻 Front-End Developer (otw fullstack)  
 🚀 Building projects, improving every day  
 
 ---
@@ -9,7 +9,7 @@
 
 - 🔭 Currently sharpening my development skills
 - 🌱 Learning more about scalable web apps
-- 🎯 Goal: Become a Software Engineer
+- 🎯 Goal: Become a pro Software Engineer
 - ⚡ Bored college student
 - 😴 i am beginner
 
