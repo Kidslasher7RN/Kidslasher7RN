@@ -1,4 +1,4 @@
-# Hi, I'm Kidslasher7RN
+# Hi, K7!
 
 💻 Front-End Developer (otw fullstack)  
 🚀 Building projects, improving every day  
