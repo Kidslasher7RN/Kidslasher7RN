@@ -1,43 +1,25 @@
 # K7!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hi+Bro;I'm+K7!)](https://git.io/typing-svg)
+
 💻 Front-End Developer (otw fullstack)  
-🚀 Building projects, improving every day  
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🔭 Currently sharpening my development skills
-- 🌱 Learning more about scalable web apps
-- 🎯 Goal: Become a pro Software Engineer
-- ⚡ Bored college student
-- 😴 i am beginner
+- Currently sharpening my development skills
+- Learning more about scalable web apps
+- Goal: Become a pro Software Engineer
+- Bored informatics college student
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,next,nodejs,supabase,c,postgresql" />
 </p>
-
-- HTML  
-- CSS  
-- JavaScript  
-- React  
-- Tailwind CSS  
-- TypeScript  
-
----
-
-### ⚙️ Back-End
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
-</p>
-
-- Node.js  
-- Supabase  
 
 ---
 
@@ -52,11 +34,3 @@
 </p>
 
 ---
-
-## 🚀 Current Focus
-
-```txt
-✔ Mastering React ecosystem
-✔ Writing cleaner & scalable code
-✔ Understanding backend integration
-✔ Becoming consistent everyday
