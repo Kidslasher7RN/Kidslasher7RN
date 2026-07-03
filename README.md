@@ -1,9 +1,8 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+Bro%2C+I'm+K7!;Front-End+Developer+(otw+fullstack)" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="kicau-mania-ezgif.com-remove-background.gif" alt="GIF" width="400">
 </p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+Bro%2C+I'm+K7!;Front-End+Developer+(otw+fullstack)" alt="Typing SVG" /></a>
 
 <p align="center">
 Currently sharpening my development skills
