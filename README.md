@@ -1,4 +1,4 @@
-# Hi, K7!
+# K7!
 
 💻 Front-End Developer (otw fullstack)  
 🚀 Building projects, improving every day  
