@@ -1,7 +1,9 @@
-# K7!
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Bro;I'm+K7!" alt="Typing SVG" /></a></p>
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+Bro;I'm+K7!)](https://git.io/typing-svg)
+
+---
 
 💻 Front-End Developer (otw fullstack)  
 
