@@ -1,6 +1,7 @@
 # K7!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hi+Bro;I'm+K7!)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Bro;I'm+K7!" alt="Typing SVG" /></a></p>
 
 💻 Front-End Developer (otw fullstack)  
 
@@ -25,9 +26,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kidslasher7RN&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kidslasher7RN&theme=tokyonight" />
